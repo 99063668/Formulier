@@ -1,0 +1,21 @@
+input{
+    font-size: 16px;
+    border: 1px solid black;
+    margin-top: 10px;
+    padding: 4px 15px;
+    display: block;
+    width: 15%;
+}
+
+button{
+    background-color: lightgreen;
+    color: black;
+    font-size: 16px;
+    padding: 4px 10px;
+    margin-top: 10px;
+    -webkit-appearance: "none";
+}
+
+p{
+    font-size: 20px;
+}
