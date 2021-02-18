@@ -7,8 +7,12 @@
 </head>
 <body>
 
-<p> test</p>
+<p>Bedankt voor het invullen van uw gegevens.</p>
 
    
  </body>
 </html>
+
+
+
+

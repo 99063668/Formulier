@@ -1,8 +1,8 @@
 input{
     font-size: 16px;
     border: 1px solid black;
-    margin-top: 10px;
-    padding: 4px 15px;
+    margin-top: 5px;
+    padding: 4px 10px;
     display: block;
     width: 15%;
 }
@@ -13,9 +13,13 @@ button{
     font-size: 16px;
     padding: 4px 10px;
     margin-top: 10px;
+    border: 1px solid black;
     -webkit-appearance: "none";
 }
 
-p{
-    font-size: 20px;
+
+.error {
+    color: #FF0000;
+    font-size: 16px;
 }
+
